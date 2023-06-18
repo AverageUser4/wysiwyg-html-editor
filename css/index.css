@@ -1,0 +1,18 @@
+label {
+  display: block;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.edited-page {
+  width: 500px;
+  height: 800px;
+
+  outline: 5px solid black;
+
+  flex-shrink: 0;
+  overflow: auto;
+}

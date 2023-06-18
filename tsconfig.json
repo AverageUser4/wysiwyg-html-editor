@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target":"ESNext",
+    "rootDir":"ts",
+    "outDir":"js",
+    "strict": true,
+    "module": "CommonJS"
+  }
+}
